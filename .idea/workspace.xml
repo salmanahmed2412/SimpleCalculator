@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb0767b7-7978-42b7-b723-40b5cc6961fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.3.9-bin/2609u9g41na2l7ogackmif6fj2/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fk3UE0M3VFbsDMiH2RC1LMqNvt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SimpleCalculatorApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalcalutorControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SimpleCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.calculator.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.calculator.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.calculator.controller.SimpleCalcalutorControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalcalutorControllerTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SimpleCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.calculator.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.calculator.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.calculator.controller.SimpleCalcalutorControllerTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SimpleCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.calculator.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.calculator.service" />
+      <option name="MAIN_CLASS_NAME" value="com.calculator.service.SimpleCalculatorServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorServiceTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SimpleCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.calculator.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.calculator.service" />
+      <option name="MAIN_CLASS_NAME" value="com.calculator.service.SimpleCalculatorServiceTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SimpleCalculator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.restservice.RestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SimpleCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.calculator.SimpleCalculatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SimpleCalculatorApplication" />
+        <item itemvalue="JUnit.SimpleCalcalutorControllerTest" />
+        <item itemvalue="JUnit.SimpleCalcalutorControllerTest.testAdd" />
+        <item itemvalue="JUnit.SimpleCalculatorServiceTest" />
+        <item itemvalue="JUnit.SimpleCalculatorServiceTest.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb0767b7-7978-42b7-b723-40b5cc6961fc" name="Default Changelist" comment="" />
+      <created>1596748277050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596748277050</updated>
+      <workItem from="1596748278274" duration="100000" />
+      <workItem from="1596748715433" duration="327000" />
+      <workItem from="1596749094985" duration="4348000" />
+      <workItem from="1596914239003" duration="448000" />
+      <workItem from="1596926969491" duration="13394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="190" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596986287655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="190" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1596986287655" />
+    <state width="705" height="265" key="GridCell.Tab.0.bottom" timestamp="1597012642025">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596998119549" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596751405317" />
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1596752335795" />
+    <state width="705" height="265" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1597012642025" />
+    <state width="705" height="186" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1596968256250" />
+    <state width="705" height="265" key="GridCell.Tab.0.center" timestamp="1597012642023">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596998119548" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1596751405316" />
+    <state width="1398" height="264" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1596752335794" />
+    <state width="705" height="265" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1597012642023" />
+    <state width="705" height="186" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1596968256248" />
+    <state width="705" height="265" key="GridCell.Tab.0.left" timestamp="1597012642021">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596998119546" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1596751405315" />
+    <state width="1398" height="264" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1596752335793" />
+    <state width="705" height="265" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1597012642021" />
+    <state width="705" height="186" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1596968256244" />
+    <state width="705" height="265" key="GridCell.Tab.0.right" timestamp="1597012642024">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596998119548" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1596751405316" />
+    <state width="1398" height="264" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1596752335794" />
+    <state width="705" height="265" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1597012642024" />
+    <state width="705" height="186" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1596968256249" />
+    <state width="705" height="265" key="GridCell.Tab.1.bottom" timestamp="1597012642028">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596998119554" />
+    <state width="1398" height="212" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596751405322" />
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1596752335797" />
+    <state width="705" height="265" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1597012642028" />
+    <state width="705" height="186" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1596968256257" />
+    <state width="705" height="265" key="GridCell.Tab.1.center" timestamp="1597012642026">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596998119552" />
+    <state width="1398" height="212" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1596751405319" />
+    <state width="1398" height="264" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1596752335796" />
+    <state width="705" height="265" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1597012642026" />
+    <state width="705" height="186" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1596968256253" />
+    <state width="705" height="265" key="GridCell.Tab.1.left" timestamp="1597012642025">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596998119550" />
+    <state width="1398" height="212" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1596751405318" />
+    <state width="1398" height="264" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1596752335796" />
+    <state width="705" height="265" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1597012642025" />
+    <state width="705" height="186" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1596968256251" />
+    <state width="705" height="265" key="GridCell.Tab.1.right" timestamp="1597012642027">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596998119553" />
+    <state width="1398" height="212" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1596751405320" />
+    <state width="1398" height="264" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1596752335797" />
+    <state width="705" height="265" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1597012642027" />
+    <state width="705" height="186" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1596968256254" />
+    <state width="705" height="304" key="GridCell.Tab.2.bottom" timestamp="1596967624595">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="705" height="304" key="GridCell.Tab.2.bottom/0.23.1440.828@0.23.1440.828" timestamp="1596967624595" />
+    <state width="705" height="304" key="GridCell.Tab.2.center" timestamp="1596967624594">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="705" height="304" key="GridCell.Tab.2.center/0.23.1440.828@0.23.1440.828" timestamp="1596967624594" />
+    <state width="705" height="304" key="GridCell.Tab.2.left" timestamp="1596967624593">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="705" height="304" key="GridCell.Tab.2.left/0.23.1440.828@0.23.1440.828" timestamp="1596967624593" />
+    <state width="705" height="304" key="GridCell.Tab.2.right" timestamp="1596967624595">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="705" height="304" key="GridCell.Tab.2.right/0.23.1440.828@0.23.1440.828" timestamp="1596967624595" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1596984740284">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1596984740284" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/calculator/controller/SimpleCalcalutorControllerTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
